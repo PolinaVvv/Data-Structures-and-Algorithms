@@ -1,0 +1,1 @@
+y := exp(ln( b*c)/3)/(a*a*a*a*a-8)+exp(ln(3)*c)*sqr(ln(a+sqr(sqr(sqr(c))))/cos(sqrt(a*b)+c));
